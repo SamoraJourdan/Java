@@ -1,0 +1,12 @@
+1). Byte code is a highly optimised set of instructions made to executed by the JVM. It allows Java to be secure and portable.
+2). Encapsulation polymorphism and inheritance.
+3). They begin execution at the main() method
+4). A named memory location with mutable contents.
+5). D, variables cannot begin with numbers.
+6). With // or /* ... */
+7). if(condition) statement; for(initialization; condition; iteration) statement;
+8). Using {}(curly brackets.
+9). See MoonGravity in Quiz Project
+10). See InchToMeter in Quiz Project
+11). Syntax Error
+12). No 
