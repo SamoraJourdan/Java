@@ -1,4 +1,10 @@
+package Exercises;
+
 public class MegaBytesConverter {
+    public static void main(String[] args) {
+        printMegaBytesAndKiloBytes(5456);
+    }
+
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
         int megabytes = kiloBytes / 1024;
         int remainderKilobytes = kiloBytes % 1024;

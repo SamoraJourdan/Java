@@ -1,3 +1,5 @@
+package Exercises;
+
 public class TeenNumberChecker {
     public static boolean hasTeen(int a, int b, int c){
         return ((13 <= a && a <= 19)||
